@@ -2,13 +2,17 @@
 main:
   - title: "Über mich"
     url: /ueber
+    id: ueber
     blank: false
   - title: "Angebot"
     url: /angebot
+    id: angebot
     blank: false
   - title: "Preise"
     url: /preise
+    id: preise
     blank: false
   - title: "Kontakt"
     url: /kontakt
+    id: kontakt
     blank: false

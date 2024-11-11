@@ -1,3 +1,7 @@
 .berry {
     color: #b7337a;
 }
+
+a.active {
+    color: #b7337a !important;
+}
