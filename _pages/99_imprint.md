@@ -1,30 +1,27 @@
 ---
 layout: page
 title: Impressum und Datenschutz
+header:
+  overlay_image: /assets/images/header.webp
+  overlay_filter: rgba(0, 0, 0, 0.8)
 permalink: /imprint
 ---
 
-#### German Imprint
-This imprint & privacy note is in German, as I (Per Starke, the responsible person) am German, and it's therefore
-required by German Law. Contact me or use translation tools for an english version. 
-
-<hr>
 
 #### Anbieter und Verantwortliche Person
-Per Starke, Willi-Lauf Allee 43, D-50858 Köln
-
+Astrid Groh    
+Holunderweg 13    
+D-50858 Köln   
 
 #### Kontakt
-Telefon: +49 160 93268817
-<br>
-e-Mail: per_at_starke-team.de
-<br>
+Telefon: +49 170-5271399
 
 
 ## Datenschutzerklärung
 
 #### Geltungsbereich
-Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den vorstehend genannten Anbieter Per Starke auf dieser Website (im folgenden “Angebot”) auf.<br />
+Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den vorstehend genannten Anbieter Astrid Groh auf dieser Website (im folgenden “Angebot”) auf.<br />
+<br />
 <br />
 Die rechtlichen Grundlagen des Datenschutzes finden sich in der Datenschutzgrundverordnung (DSGVO), dem Bundesdatenschutzgesetz (BDSG) und dem Telemediengesetz (TMG).<br />
 <br />
