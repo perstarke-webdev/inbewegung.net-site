@@ -1,6 +1,6 @@
-# InBewegung Site
+# inBewegung Site
 
-Repository for the website for InBewegung
+Repository for the website for inBewegung
 
 ## Credits
 
