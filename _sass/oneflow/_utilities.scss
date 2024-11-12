@@ -238,9 +238,10 @@ body:hover .visually-hidden button {
     border: 1px solid $primary-color;
     box-sizing: border-box;
     text-align: center;
+    border-radius: 8px;
 
     @media screen and (max-width: 768px) {
-        width: 100%;
+        width: calc(50% - 20px);
         margin-bottom: 20px;
     }
 }
@@ -258,6 +259,13 @@ body:hover .visually-hidden button {
     object-fit: cover;
     object-position: center;
     border-radius: 50%;
+}
+
+@media screen and (max-width: 768px) {
+  .round-image {
+    width: 100px;
+    height: 100px;
+  }
 }
 
 

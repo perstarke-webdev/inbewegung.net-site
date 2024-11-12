@@ -51,3 +51,9 @@ a.active {
     border-top: 1px solid #b7337a;
     opacity: 0.5;
 }
+
+.smooth-img {
+    border-radius: 5px;
+    object-fit: cover;
+}
+
