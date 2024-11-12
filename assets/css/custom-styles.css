@@ -21,3 +21,33 @@ a.active {
         height: 50vh !important;
     }
 }
+
+.desktop-only {
+    display: none; /* Hide by default */
+}
+
+@media (min-width: 768px) {
+    .desktop-only {
+        display: block; /* Show on desktop */
+    }
+}
+
+.mobile-only {
+    display: block; /* Show by default */
+}
+
+@media (min-width: 768px) {
+    .mobile-only {
+        display: none; /* Hide on desktop */
+    }
+}
+
+.mobile-about-img {
+    width: 400px;
+    margin-bottom: 1rem;
+}
+
+.hr-box {
+    border-top: 1px solid #b7337a;
+    opacity: 0.5;
+}
