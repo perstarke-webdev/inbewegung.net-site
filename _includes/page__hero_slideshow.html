@@ -1,22 +1,23 @@
 {% capture overlay_img_path %}{{ page.header.overlay_image | relative_url }}{% endcapture %}
 
 {% if page.header.overlay_filter contains "gradient" %}
-  {% capture overlay_filter %}{{ page.header.overlay_filter }}{% endcapture %}
+{% capture overlay_filter %}{{ page.header.overlay_filter }}{% endcapture %}
 {% elsif page.header.overlay_filter contains "rgba" %}
-  {% capture overlay_filter %}{{ page.header.overlay_filter }}{% endcapture %}
-  {% capture overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}){% endcapture %}
+{% capture overlay_filter %}{{ page.header.overlay_filter }}{% endcapture %}
+{% capture overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}){% endcapture %}
 {% elsif page.header.overlay_filter %}
-  {% capture overlay_filter %}rgba(0, 0, 0, {{ page.header.overlay_filter }}){% endcapture %}
-  {% capture overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}){% endcapture %}
+{% capture overlay_filter %}rgba(0, 0, 0, {{ page.header.overlay_filter }}){% endcapture %}
+{% capture overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}){% endcapture %}
 {% endif %}
 
 {% if page.header.image_description %}
-  {% assign image_description = page.header.image_description %}
+{% assign image_description = page.header.image_description %}
 {% else %}
-  {% assign image_description = page.title %}
+{% assign image_description = page.title %}
 {% endif %}
 
 {% assign image_description = image_description | markdownify | strip_html | strip_newlines | escape_once %}
+
 <div class="hero-height page__hero--overlay" style="display: flex; flex-direction: column; justify-content: center; align-items: center; position: relative;">
   <div class="hero-slider">
     <img src="{{ 'assets/images/header.webp' | relative_url }}" alt="Slideshow Image 1" class="slider-image">
@@ -25,6 +26,10 @@
     <img src="{{ 'assets/images/header3.webp' | relative_url }}" alt="Slideshow Image 4" class="slider-image">
     <img src="{{ 'assets/images/header4.webp' | relative_url }}" alt="Slideshow Image 5" class="slider-image">
   </div>
+
+  <!-- The overlay div that covers all the images -->
+  <div class="overlay"></div>
+
   <div class="wrapper">
     <h1 id="page-title" class="page__title" itemprop="headline">
       {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
@@ -60,6 +65,27 @@
   .hero-slider .slider-image:first-child {
     opacity: 1;
   }
+
+  /* The overlay background above all the images */
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Slightly darken the images */
+    z-index: 1; /* Keep the overlay above the images but below the text */
+  }
+
+  /* Text and other content should be above the images and overlay */
+  .wrapper {
+    z-index: 2; /* Ensure text and buttons are above the images and overlay */
+    position: relative;
+  }
+
+  .page__title {
+    transform: translateX(-50%) translateY(14.58rem);
+  }
 </style>
 
 <script>
@@ -82,4 +108,3 @@
     setInterval(changeImage, 4000);
   });
 </script>
-
