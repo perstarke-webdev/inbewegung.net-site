@@ -58,12 +58,8 @@ body {
 }
 
 .page__title {
-  margin-top: 0;
+  margin-top: 10rem;
   line-height: 1;
-  position: absolute;
-  bottom: 10px;
-  left: 50%;
-  transform: translateX(-50%); /* Center the title horizontally */
 
   a {
     color: $text-color;
@@ -74,6 +70,7 @@ body {
     margin-top: -0.5em;
   }
 }
+
 
 
 .page__lead {
