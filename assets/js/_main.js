@@ -134,3 +134,20 @@ $(function() {
     }
   });
 });
+
+
+
+document.addEventListener("DOMContentLoaded", function() {
+  const images = document.querySelectorAll(".hero-slider .slider-image");
+  let currentImageIndex = 0;
+
+  function changeImage() {
+    images[currentImageIndex].style.opacity = 0;
+
+    currentImageIndex = (currentImageIndex + 1) % images.length;
+
+    images[currentImageIndex].style.opacity = 1;
+  }
+
+  setInterval(changeImage, 4000);
+});
