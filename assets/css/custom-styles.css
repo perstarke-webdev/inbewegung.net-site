@@ -83,6 +83,46 @@ a.active {
     padding: 20px;
 }
 
+.notice-landing {
+    font-size: 120% !important;
+}
+
+.landing-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 100%;
+    padding: 20px;
+}
+
+.landing-img {
+    width: 33.33%;
+    max-width: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.landing-text {
+    width: 66.67%;
+    padding-left: 20px;
+}
+
+@media (max-width: 767px) {
+    .landing-container {
+        flex-direction: column;
+    }
+
+    .landing-img {
+        width: 100%;
+        padding-bottom: 20px;
+    }
+
+    .landing-text {
+        width: 100%;
+        padding-left: 0;
+    }
+}
+
 
 
 
