@@ -31,7 +31,7 @@
   <div class="overlay"></div>
 
   <div class="wrapper">
-    <h1 id="page-title" class="page__title" itemprop="headline">
+    <h1 id="page-title" class="page__title accent-font bigger-accent" itemprop="headline">
       {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
     </h1>
     {% if page.header.show_overlay_excerpt != false and page.excerpt %}
