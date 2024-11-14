@@ -77,6 +77,10 @@ FontAwesome nutzt anonyme Zugriffsdaten, die in deren
 Auf dieser Webseite wird FontAwesome allerdings lokal gehostet und somit keine Daten an FontAwesome weitergegeben.
 <br/>
 
+#### Wirbel-Design
+
+Das im Logo und auf mehreren Unterseiten als Design-Element verwendete Wirbel-Element ist Lizenzmaterial von Nina Just, n.just_at_ninjagrafik.de,
+und für die Benutzung auf dieser Website freigegeben
 
 #### Widerruf, Änderungen, Berichtigungen und Aktualisierungen
 Der Nutzer hat das Recht, auf Antrag unentgeltlich Auskunft zu erhalten über die personenbezogenen Daten, die über ihn gespeichert wurden. Zusätzlich hat der Nutzer das Recht auf Berichtigung unrichtiger Daten, Sperrung und Löschung seiner personenbezogenen Daten, soweit dem keine gesetzliche Aufbewahrungspflicht entgegensteht.<br />
