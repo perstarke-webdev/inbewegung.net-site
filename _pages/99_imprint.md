@@ -3,7 +3,7 @@ layout: page
 title: Impressum und Datenschutz
 header:
   overlay_image: /assets/images/header.webp
-  overlay_filter: rgba(0, 0, 0, 0.8)
+  overlay_filter: rgba(0, 0, 0, 0.5)
 permalink: /imprint
 ---
 
