@@ -43,6 +43,11 @@
     border-color: $info-color
 }
 
+.box--textcolor {
+    border-color: $text-color;
+    background-color: rgba($text-color, 0.05);
+}
+
 @media (min-width: 768px) {
     .box-half {
         flex-basis: calc(50% - 50px);

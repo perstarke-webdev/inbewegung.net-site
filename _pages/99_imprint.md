@@ -14,7 +14,8 @@ Holunderweg 13
 D-50858 Köln   
 
 #### Kontakt
-Telefon: +49 170-5271399
+Telefon: +49 170-5271399   
+Email: astridgroh_at_inbewegung.net
 
 
 ## Datenschutzerklärung
