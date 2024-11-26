@@ -23,7 +23,7 @@ to any text you like.
 
 /* Set default font weight to 300 for all text */
 body {
-  font-family: 'brandon-grotesque', sans-serif;
+  font-family: 'brandon-grotesque', sans-serif !important;
   font-weight: 300;
 }
 
