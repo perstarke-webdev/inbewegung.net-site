@@ -20,11 +20,11 @@ gallery:
   - url: /assets/images/gallery/astrid-yoga-rhein-3.webp
     image_path: /assets/images/gallery/astrid-yoga-rhein-3.webp
     alt: "Astrid Grohe in Köln am Rhein, Yoga, Pilates, Meditation"
-  - url: /assets/images/gallery/astrid-meditation-2.webp
-    image_path: /assets/images/gallery/astrid-meditation-2.webp
-    alt: "Astrid Grohe in Köln, Yoga, Pilates, Meditation"
   - url: /assets/images/gallery/astrid-meditation-1.webp
     image_path: /assets/images/gallery/astrid-meditation-1.webp
+    alt: "Astrid Grohe in Köln, Yoga, Pilates, Meditation"
+  - url: /assets/images/gallery/astrid-meditation-2.webp
+    image_path: /assets/images/gallery/astrid-meditation-2.webp
     alt: "Astrid Grohe in Köln, Yoga, Pilates, Meditation"
   - url: /assets/images/gallery/astrid-meditation-3.webp
     image_path: /assets/images/gallery/astrid-meditation-3.webp
