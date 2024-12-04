@@ -172,3 +172,7 @@ ul {
 .margin-top {
     margin-top: 2rem;
 }
+
+.no-break {
+    white-space: nowrap;
+}

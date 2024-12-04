@@ -38,6 +38,15 @@ gallery:
   - url: /assets/images/gallery/astrid-yoga-class-3.webp
     image_path: /assets/images/gallery/astrid-yoga-class-3.webp
     alt: "Astrid Grohe in Köln, Gruppenkurs Yoga, Pilates, Meditation"
+  - url: /assets/images/gallery/astrid-yoga-rhein-4.webp
+    image_path: /assets/images/gallery/astrid-yoga-rhein-4.webp
+    alt: "Astrid Grohe in Köln am Rhein, Yoga, Pilates, Meditation"
+  - url: /assets/images/gallery/astrid-yoga-rhein-5.webp
+    image_path: /assets/images/gallery/astrid-yoga-rhein-5.webp
+    alt: "Astrid Grohe in Köln am Rhein, Yoga, Pilates, Meditation"
+  - url: /assets/images/gallery/astrid-yoga-rhein-6.webp
+    image_path: /assets/images/gallery/astrid-yoga-rhein-6.webp
+    alt: "Astrid Grohe in Köln am Rhein, Yoga, Pilates, Meditation"
 ---
 
 <h1>Herzlich willkommen auf meiner Seite für Yoga und Meditation!</h1>
