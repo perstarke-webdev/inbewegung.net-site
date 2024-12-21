@@ -7,7 +7,7 @@ a.active {
 }
 
 .hero-height {
-    height: 70vh !important;
+    min-height: 70vh !important;
 }
 
 .desktop-only {
