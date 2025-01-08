@@ -83,6 +83,9 @@ Auf dieser Webseite wird FontAwesome allerdings lokal gehostet und somit keine D
 Das im Logo und auf mehreren Unterseiten als Design-Element verwendete Wirbel-Element ist Lizenzmaterial von Nina Just, n.just_at_ninjagrafik.de,
 und für die Benutzung auf dieser Website freigegeben
 
+#### Fotos
+Die hier verwendeten Fotos sind geschossen von Sabine Grosse-Wortmann.
+
 #### Verwendung von Adobe Fonts
 Für die Darstellung dieser Website verwenden wir Schriftarten des Dienstes „Adobe Fonts“. Diese Schriftarten werden von Adobe bereitgestellt und über deren Server geladen. Dabei können von Adobe technische Daten wie Ihre IP-Adresse erhoben werden.
 Weitere Informationen zur Datenverarbeitung durch Adobe Fonts finden Sie in den [Datenschutzbestimmungen von Adobe](https://www.adobe.com/de/privacy/policies/adobe-fonts.html).
