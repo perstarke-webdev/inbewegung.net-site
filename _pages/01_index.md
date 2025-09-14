@@ -49,7 +49,7 @@ gallery:
     alt: "Astrid Grohe in Köln am Rhein, Yoga, Pilates, Meditation"
 ---
 
-<h1>Herzlich willkommen auf meiner Seite für Yoga und Meditation!</h1>
+<h1>Herzlich willkommen auf meiner Seite für Yoga, Pilates und Meditation!</h1>
 <br>
 
 <hr class="hr-box">
