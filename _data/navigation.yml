@@ -12,6 +12,9 @@ main:
     url: /preise
     id: preise
     blank: false
+  - title: "Aktuelles"
+    url: /#aktuelles
+    blank: false
   - title: "Kontakt"
     url: /kontakt
     id: kontakt
