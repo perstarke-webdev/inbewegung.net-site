@@ -79,7 +79,7 @@ gallery:
 
 <div markdown="1" class="box box--primary">
 
-<h3>Aktuelles</h3>
+<h3 id="aktuelles">Aktuelles</h3>
 
 <hr class="hr-box">
 
