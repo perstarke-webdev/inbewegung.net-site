@@ -1,8 +1,9 @@
-- **Neuer Pilates Präventionskurs** – Mittwochs von 9.30 - 10.30 Uhr
-- Start: 5. November 2025
+- **Neuer Pilates (Faszien) Präventionskurs** – Montags von 10.00 - 11.00 Uhr
+- Start: Montag 19.Januar 2026
 - Schnupperkarte zum Special-Preis 10er Karte 160€
-- (von den KK bis zu 80% bezuschusst)
--  **YOGA VOLLMOND MEDITATION** - Donnerstag 04.12.2025 19.30 -21.00 Uhr
--  20€ pro Teilnehmer
+- (von der KK bis zu 80% bezuschusst)
+-  **YIN YOGA** - Mittwochs von 10.30 -11.30 Uhr
+-  Start: Mittwoch 04. Februar 2026
+-  
 - Ort: Yogaraum24, Kölner Weg 24, 50858 Köln
 - Anmeldung per Mail an astridgroh@inbewegung.net
