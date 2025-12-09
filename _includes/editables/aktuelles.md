@@ -1,5 +1,5 @@
 - **Neuer Pilates (Faszien) Präventionskurs** – Montags von 10.00 - 11.00 Uhr
-- Start: Montag 19.Januar 2026
+- Start: Montag 19. Januar 2026
 - Schnupperkarte zum Special-Preis 10er Karte 160€
 - (von der KK bis zu 80% bezuschusst)
 -  **YIN YOGA** - Mittwochs von 10.30 -11.30 Uhr
