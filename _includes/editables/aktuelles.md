@@ -1,11 +1,19 @@
-- **Neuer PILATES (Faszien) Präventionskurs** – Montags von 10.00 - 11.00 Uhr
+- **Neuer PILATES Faszien Präventionskurs** – Montag von 10 - 11 Uhr
 - Start: Montag 19. Januar 2026
 - (von der KK bis zu 80% bezuschusst)
 - 
--  **YIN YOGA** - Mittwochs von 10.30 -11.30 Uhr
+-  **YIN YOGA** - Mittwoch von 10.30 -11.30 Uhr
 -  Start: Mittwoch 04. Februar 2026
 -  
-- Special zum Start ins neue Jahr: 10er Karte 160€
+-  **PILATES** - Mittwoch 9.30 - 10.30 Uhr
+-  **ONLINE YIN und YANG YOGA** - Mittwoch 19.15 - 20.45 Uhr
+-  **YIN und YANG YOGA** - Donnerstag 17 - 18 Uhr
 -  
+- Special zum Start ins neue Jahr: 10er Karte 160€
+- 
 - Ort: Yogaraum24, Kölner Weg 24, 50858 Köln
 - Anmeldung per Mail an astridgroh@inbewegung.net
+-  
+- 
+-  
+- 
