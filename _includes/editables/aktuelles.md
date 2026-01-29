@@ -10,7 +10,7 @@
 -  *Special zum Start ins neue Jahr: 10er Karte 160€*
 - 
 -  Ort: Yogaraum24, Kölner Weg 24, 50858 Köln
--  Anmeldung per Mail an astridgroh@inbewegung.net
+-  Anmeldung per Mail an [astridgroh@inbewegung.net](mailto:astridgroh@inbewegung.net)
 -  
 - 
 -  
