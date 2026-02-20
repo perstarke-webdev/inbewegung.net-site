@@ -1,8 +1,8 @@
 - **YOGA VOLLMOND MEDITATION**- am Donnerstag, 30.04.2026 von 16.30 - 18.00 Uhr
 - 
 -  **YIN YOGA** - Mittwoch von 10.30 -11.30 Uhr
--  *Start: Mittwoch 04. Februar 2026*
 -  **YIN und YANG YOGA** - Donnerstag 17 - 18 Uhr
+-  *ab Mai auch Montag 17 - 18 Uhr*
 -  **PILATES** - Mittwoch 9.30 - 10.30 Uhr
 -  (von der KK bis zu 80% bezuschusst)
 -  **ONLINE YIN und YANG YOGA** - Mittwoch 19.15 - 20.45 Uhr
