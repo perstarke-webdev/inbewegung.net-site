@@ -1,4 +1,4 @@
-- **YOGA VOLLMOND MEDITATION**- am Sonntag, 01.02.2026 von 17.30 - 19.00 Uhr
+- **YOGA VOLLMOND MEDITATION**- am Donnerstag, 30.04.2026 von 16.30 - 18.00 Uhr
 - 
 -  **YIN YOGA** - Mittwoch von 10.30 -11.30 Uhr
 -  *Start: Mittwoch 04. Februar 2026*
