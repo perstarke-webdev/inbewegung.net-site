@@ -1,14 +1,15 @@
 - **YOGA VOLLMOND MEDITATION**- am Donnerstag, 30.04.2026 von 16.30 - 18.00 Uhr
 - 
--  **YIN YOGA** - Mittwoch von 10.30 -11.30 Uhr
--  **YOGA** - Donnerstag 17 - 18 Uhr
--  *ab Mai auch Montag 17 - 18 Uhr*
+-  **YOGA** - Montag 18.45 - 20.15 Uhr (CC Köln) ab Mai 2026
+-  **YOGA** - Donnerstag 17 - 18 Uhr (Yogaraum24) 
+-  **PILATES** - Montag 17.45 - 18.45 Uhr (CC Köln) ab Mai 2026
 -  **PILATES** - Mittwoch 9.30 - 10.30 Uhr
--  (von der KK bis zu 80% bezuschusst)
+-  (alle Pilates Kurse von der KK bis zu 80% bezuschusst)
+-  **YIN YOGA** - Mittwoch 10.30 -11.30 Uhr (Yogaraum24) 
 -  **ONLINE YIN und YANG YOGA** - Mittwoch 19.15 - 20.45 Uhr
 -  
--  *Special zum Start ins neue Jahr: 10er Karte 160€*
-- 
+-  
+-  Ort: Chiropractic-Centrum Köln, Wendelinstr.69, 50933 Köln
 -  Ort: Yogaraum24, Kölner Weg 24, 50858 Köln
 -  Anmeldung per Mail an [astridgroh@inbewegung.net](mailto:astridgroh@inbewegung.net)
 -  
