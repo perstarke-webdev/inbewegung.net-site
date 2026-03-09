@@ -9,7 +9,7 @@
 -  **ONLINE YIN und YANG YOGA** - Mittwoch 19.15 - 20.45 Uhr
 -  (alle Pilates Kurse von der KK bis zu 80% bezuschusst)
 -  
--  Ort: Chiropractic-Centrum Köln, Wendelinstr.69, 50933 Köln
+-  Ort: Chiropractic-Centrum Köln, Belvederestr. 4, 50933 Köln
 -  Ort: Yogaraum24, Kölner Weg 24, 50858 Köln
 -  Anmeldung per Mail an [astridgroh@inbewegung.net](mailto:astridgroh@inbewegung.net)
 -  
