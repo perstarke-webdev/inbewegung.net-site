@@ -4,12 +4,12 @@
 -  **YIN YOGA** - Mittwoch 10.30 -11.30 Uhr (Yogaraum24)
 -  **YOGA** - Donnerstag 17 - 18 Uhr (Yogaraum24) 
 -   
--  **PILATES** - Montag 17.45 - 18.45 Uhr (CC Köln) ab Mai 2026
--  **YOGA** - Montag 18.45 - 20.15 Uhr (CC Köln) ab Mai 2026
--  **ONLINE YIN und YANG YOGA** - Mittwoch 19.15 - 20.45 Uhr
+-  **PILATES** - Montag 17.45 - 18.45 Uhr (Belvederestr.4/Müngersdorf) ab Mai 2026
+-  **YOGA** - Montag 18.45 - 20.15 Uhr (Belvederestr.4/Müngersdorf) ab Mai 2026
+-  **Montags Kurse auch Online**
 -  (alle Pilates Kurse von der KK bis zu 80% bezuschusst)
 -  
--  Ort: Chiropractic-Centrum Köln, Belvederestr. 4, 50933 Köln
+-  Ort: Belvederestr. 4, 50933 Köln
 -  Ort: Yogaraum24, Kölner Weg 24, 50858 Köln
 -  Anmeldung per Mail an [astridgroh@inbewegung.net](mailto:astridgroh@inbewegung.net)
 -  
