@@ -1,10 +1,9 @@
 -  **PILATES** - Mittwoch 9.30 - 10.30 Uhr (Yogaraum24) 
--  **YIN YOGA** - Mittwoch 10.30 -11.30 Uhr (Yogaraum24)
--  **YOGA** - Donnerstag 17 - 18 Uhr (Yogaraum24) 
--   
+-      
 -  **PILATES** - Montag 17.45 - 18.45 Uhr (Belvederestr.4/Müngersdorf) 
 -  **YOGA** - Montag 18.45 - 20.15 Uhr (Belvederestr.4/Müngersdorf) 
 -  **Montags Kurse auch Online**
+-  
 -  ***Alle Yoga und Pilates Kurse werden von der KK bis zu 80% bezuschusst!***
 -  
 -  Ort: Belvederestr. 4, 50933 Köln
